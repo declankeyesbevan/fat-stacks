@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# jetbrains
+.idea/*
+
+# database
+authentication.txt
+employees.txt
+pays.txt
