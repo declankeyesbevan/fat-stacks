@@ -4,8 +4,8 @@
 Dev challenge for a job application which tests object-oriented programming in Python.
 
 A very simple object-oriented payroll app which displays a user interface, allowing a user to login
-and be verified using the attached ‘authentication.txt’ file. Once verified the user can then query
-the employee and pay data (employees.txt, pays.txt), where the app must display and process a series
+and be verified using the attached `authentication.txt` file. Once verified the user can then query
+the employee and pay data (`employees.txt`, `pays.txt`), where the app must display and process a series
 of menu and sub-menu options.
 
 ## Requires
