@@ -26,6 +26,9 @@ Sample versions of these files are in the [examples](examples) directory.
 These files must be placed in the root directory i.e. `fat-stacks`
 
 ## Installation
+
+    git clone https://github.com/declankeyesbevan/fat-stacks.git
+
 Unzip fat-stacks.zip
 
     cd fat-stacks
